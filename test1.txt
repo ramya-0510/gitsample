@@ -1,0 +1,15 @@
+Content Testing
+
+Validates displayed information.
+
+What is tested
+
+Text accuracy
+
+Images and media
+
+Grammar and spelling
+
+Broken links
+
+Goal: Maintain professionalism and correctness.
